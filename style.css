@@ -1,0 +1,11 @@
+#output {
+  white-space: pre-wrap;
+  background-color: #f0f0f0;
+  padding: 15px;
+  border-radius: 8px;
+}
+#output pre {
+  margin: 0;
+  font-family: 'Courier New', Courier, monospace;
+  color: #333;
+}
